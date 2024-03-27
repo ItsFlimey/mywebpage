@@ -1,0 +1,9 @@
+html{background-image: url(images/background.jpg);}
+img#main-image{padding:20px;border-radius:100%;border:2px rgb(179, 179, 179) solid}
+div#main-div{
+    background-color: aliceblue;
+    width:70%;
+    height:1200px;
+    margin:auto;
+    margin-top:200px;
+}
